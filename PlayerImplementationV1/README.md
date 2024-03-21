@@ -11,7 +11,7 @@ de metoder, der skal bruges af andre klasser er "public"
 og de metoder, der kun skal bruges af klassen selv er "private"
 Alle "public" variabler og metoder er klassens brugerflade udadtil
 
-### SINGLET-RESPONSIBILITY-PRINCIPPET 
+### SINGLE-RESPONSIBILITY-PRINCIPPET 
 Alt der har noget med spilleren at gøre, er samlet i klassen "Player"!!
 derfor er det en klasse med et enkelt ansvar - hvordan spilleren styres, tegnes og bevæger sig
 ingen andre steder i programmet er der kode, der gør dette

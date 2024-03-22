@@ -1,9 +1,14 @@
 ## Player implementation Version 1.0
+
+-----------------------------------------------------------------------------------------------
+
+### Om koden
+
 Denne mappe indholder en ikke færdig implementation af Player klassen.
 Klassen Player anvender både det objekt orienterede kerneprincip "Indkapsling", men også
 SOLID princippet "Single-responsibility".
 
-### INDKAPSLINGS-PRINCIPPET
+#### Indkapslings princippet
 Indkapsling er en af de fire grundlæggende principper i objektorienteret programmering
 I Player klassen indkapsles alt invendigt data ved at anvende access-modifieren "private" 
 nedenfor ses også både "private" og "public" metoder og en "public" konstruktør
@@ -11,13 +16,15 @@ de metoder, der skal bruges af andre klasser er "public"
 og de metoder, der kun skal bruges af klassen selv er "private"
 Alle "public" variabler og metoder er klassens brugerflade udadtil
 
-### SINGLE-RESPONSIBILITY-PRINCIPPET 
+#### Single responsibility princippet 
 Alt der har noget med spilleren at gøre, er samlet i klassen "Player"!!
 derfor er det en klasse med et enkelt ansvar - hvordan spilleren styres, tegnes og bevæger sig
 ingen andre steder i programmet er der kode, der gør dette
 
 fra selve hovedprogrammet, som er af typen PApplet, kaldes de metoder i klassen Player, 
 som så styrer spilleren
+
+-----------------------------------------------------------------------------------------------
 
 ### Opgaver: 
 

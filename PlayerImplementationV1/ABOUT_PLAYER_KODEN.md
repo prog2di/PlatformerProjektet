@@ -33,4 +33,4 @@ Ekstra: Hvis du er færdig inden 2. modul er slut
 #### Gå før tid 
 - Er man færdig med opgave 1 til 6 må man holde fri efter 2. lektion
 - Er man færdig med opgave 1 til 6 og en af ekstra-opgaverne, må man holde fri inden 2. lektion slutter
-- Vigtigt : holder fri før tid må man ikke forstyrre dem der vælger at blive!
+- Vigtigt : holder man fri skal man forlade klasselokalet og ikke forstyrre dem der vælger at blive!

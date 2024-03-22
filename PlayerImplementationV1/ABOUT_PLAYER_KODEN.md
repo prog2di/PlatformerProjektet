@@ -18,12 +18,13 @@ Fra selve hovedprogrammet, dvs. "pde filen", kaldes kun de metoder i klassen Pla
 
 ### Opgaver: 
 
-1. Lav kode, der langsomt formindsker accelerationen, når man løber til højre eller venstre dvs. friktion
-2. Lav kode, der muligør, at man kan hoppe med spilleren ved at trykke på "w", men ikke i luften...
-3. Lav kode, der simulerer tyngdekraften, når spilleren ikke står på jorden. Dvs. "onGround" er false 
-4. Lav kode, der sørger for, at spilleren ikke kan falde igennem jorden
+1. I skal i gruppen skiftes til at forklare 10 linjer kode hver. Start med "PlayerImplementationV1.pde" og tag derefter "Player.java". Det er vigtigt alle er med på hvordan koden fungerer.   
+2. Lav kode, der langsomt formindsker accelerationen, når man løber til højre eller venstre dvs. friktion
+3. Lav kode, der muligør, at man kan hoppe med spilleren ved at trykke på "w", men ikke i luften...
+4. Lav kode, der simulerer tyngdekraften, når spilleren ikke står på jorden. Dvs. "onGround" er false 
+5. Lav kode, der sørger for, at spilleren ikke kan falde igennem jorden
 
 Ekstra: Hvis du er færdig inden 1. modul er slut
 
-5. lige nu er der kun en platform der er defineret af groundX, groundY, groundW og groundH. Kan du lave flere??  
-6. Udtænk også at en simpel "fjende" eller "forhindring"??
+- lige nu er der kun en platform der er defineret af groundX, groundY, groundW og groundH. Kan du lave flere??
+- Udtænk også at en simpel "fjende" eller "forhindring"??

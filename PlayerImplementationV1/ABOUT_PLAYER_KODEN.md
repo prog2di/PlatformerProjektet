@@ -4,7 +4,6 @@
 
 ### Om koden
 
-Denne mappe indholder en ikke færdig implementation af Player klassen.
 Klassen Player anvender både det objekt orienterede kerneprincip "Indkapsling", men også
 SOLID princippet "Single-responsibility".
 

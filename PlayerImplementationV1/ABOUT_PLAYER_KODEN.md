@@ -25,7 +25,7 @@ Fra selve hovedprogrammet, dvs. "pde filen", kaldes kun de metoder i klassen Pla
 5. Lav kode, der sørger for, at spilleren ikke kan falde igennem jorden
 6. Skriv en lille kort tekst i din logbog, der omhandler de erfaringer I har gjort jer omkring anvendelsen af "inkapsling", "single responsibility" og opbygniungen af "Player-klassen"
 
-Ekstra: Hvis du er færdig inden 2. modul er slut
+Ekstra opgaver
 
 - lige nu er der kun en platform, der er defineret af groundX, groundY, groundW og groundH. Kan du lave flere??
 - Udtænk også at en simpel "fjende" eller "forhindring"??

@@ -30,6 +30,8 @@ Ekstra opgaver
 - lige nu er der kun en platform, der er defineret af groundX, groundY, groundW og groundH. Kan du lave flere??
 - Udtænk også at en simpel "fjende" eller "forhindring"??
 
+-----------------------------------------------------------------------------------------------
+
 #### Gå før tid 
 - Er man færdig med opgave 1 til 6 må man holde fri efter 2. lektion
 - Er man færdig med opgave 1 til 6 og ekstra-opgaverne, må man holde fri inden 2. lektion slutter

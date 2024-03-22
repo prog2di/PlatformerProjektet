@@ -23,8 +23,13 @@ Fra selve hovedprogrammet, dvs. "pde filen", kaldes kun de metoder i klassen Pla
 3. Lav kode, der muligør, at man kan hoppe med spilleren ved at trykke på "w", men man skal ikke kunne hoppe hvis man ikke står på jorden...
 4. Lav kode, der simulerer tyngdekraften, når spilleren ikke står på jorden. Dvs. "onGround" er false 
 5. Lav kode, der sørger for, at spilleren ikke kan falde igennem jorden
+6. Skriv en lille kort tekst i din logbog, der omhandler de erfaringer I har gjort jer omkring anvendelsen af "inkapsling", "single responsibility" og opbygniungen af "Player-klassen"
 
-Ekstra: Hvis du er færdig inden 1. modul er slut
+Ekstra: Hvis du er færdig inden 2. modul er slut
 
-- lige nu er der kun en platform der er defineret af groundX, groundY, groundW og groundH. Kan du lave flere??
+- lige nu er der kun en platform, der er defineret af groundX, groundY, groundW og groundH. Kan du lave flere??
 - Udtænk også at en simpel "fjende" eller "forhindring"??
+
+#### Er man færdig med opgave 1 til 6 må man holde fri efter 2. lektion
+#### Er man færdig med opgave 1 til 6 og en af ekstra-opgaverne, må man holde fri inden 2. lektion slutter
+#### Vigtigt : holder fri før tid må man ikke forstyrre dem der vælger at blive!

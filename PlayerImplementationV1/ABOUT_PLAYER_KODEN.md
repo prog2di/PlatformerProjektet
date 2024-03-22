@@ -20,7 +20,7 @@ Fra selve hovedprogrammet, dvs. "pde filen", kaldes kun de metoder i klassen Pla
 
 1. I skal i gruppen skiftes til at forklare 10 linjer kode hver. Start med "PlayerImplementationV1.pde" og forsæt med "Player.java". Det er vigtigt alle er med på hvordan koden fungerer.   
 2. Lav kode, der langsomt formindsker accelerationen, når man løber til højre eller venstre dvs. friktion
-3. Lav kode, der muligør, at man kan hoppe med spilleren ved at trykke på "w", men ikke i luften...
+3. Lav kode, der muligør, at man kan hoppe med spilleren ved at trykke på "w", men man skal ikke kunne hoppe hvis man ikke står på jorden...
 4. Lav kode, der simulerer tyngdekraften, når spilleren ikke står på jorden. Dvs. "onGround" er false 
 5. Lav kode, der sørger for, at spilleren ikke kan falde igennem jorden
 

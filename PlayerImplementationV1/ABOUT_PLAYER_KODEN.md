@@ -8,20 +8,12 @@ Klassen Player anvender både det objekt orienterede kerneprincip "Indkapsling",
 SOLID princippet "Single-responsibility".
 
 #### Indkapslings princippet
-Indkapsling er en af de fire grundlæggende principper i objektorienteret programmering
-I Player klassen indkapsles alt invendigt data ved at anvende access-modifieren "private" 
-nedenfor ses også både "private" og "public" metoder og en "public" konstruktør
-de metoder, der skal bruges af andre klasser er "public"
-og de metoder, der kun skal bruges af klassen selv er "private"
-Alle "public" variabler og metoder er klassens brugerflade udadtil
+I Player klassen indkapsles alle "indvendige" metoder og data med access-modifieren "private". 
+Alle "public" variabler og metoder er klassens "brugerflade" udadtil.
 
 #### Single responsibility princippet 
-Alt der har noget med spilleren at gøre, er samlet i klassen "Player"!!
-derfor er det en klasse med et enkelt ansvar - hvordan spilleren styres, tegnes og bevæger sig
-ingen andre steder i programmet er der kode, der gør dette
-
-fra selve hovedprogrammet, som er af typen PApplet, kaldes de metoder i klassen Player, 
-som så styrer spilleren
+Alt der har noget med spilleren at gøre, er samlet i klassen "Player"!
+Fra selve hovedprogrammet, dvs. "pde filen", kaldes kun de metoder i klassen Player, der udgør en "naturlig" brugerflade.
 
 -----------------------------------------------------------------------------------------------
 

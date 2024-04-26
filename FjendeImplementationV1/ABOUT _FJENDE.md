@@ -1,9 +1,7 @@
-## Platforme, player og FJENDER implementation Version 1.0
+## Platforme, player og fjender implementation Version 1.0
 
 Denne mappe indholder en færdig implementation af spillet med platforme og player. 
-Next step er "fjender"..
-Med introduktion af en fjende-klasse der tages en bedlutning, nemlig hvordan klasse-hierakiet skal laves.
-Til dette anvender vi "Linskovs subtitutionsprincip" 
+Next step er "fjender"...
 
 ### LINSKOVS SUBSTITUTIONSPRINCIP 
 
@@ -13,7 +11,7 @@ Kilde wikipedia:
 
 ### Opgaver: 
 1. Vær sikker på i forstår Linskovs princip, forklar det for hinanden. Og hvad betyder "semantik" og "syntaks"?
-2. Bestem jer til et klasse-hieaki der overholder Linskovs-substitutionsprincip, hvilken implementation skal man vælge:
+2. Bestem jer til et klasse-hieaki, der overholder Linskovs-substitutionsprincip, hvilken implementation skal man vælge:
     - Fjende nedarver fra Player
     - Player nedarver fra Fjende
     - Player og Fjende nedarver fra ny klasse kaldet GameObjekt

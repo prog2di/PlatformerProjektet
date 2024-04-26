@@ -11,12 +11,16 @@ Kilde wikipedia:
 
 ### Opgaver: 
 1. Vær sikker på i forstår Linskovs princip, forklar det for hinanden. Og hvad betyder "semantik" og "syntaks"?
+
 2. Bestem jer til et klasse-hieaki, der overholder Liskovs-substitutionsprincip, hvilken implementation skal man vælge:
-    - Fjende nedarver fra Player
-    - Player nedarver fra Fjende
-    - Player og Fjende nedarver fra ny klasse kaldet GameObjekt
+- Fjende nedarver fra Player
+- Player nedarver fra Fjende
+- Player og Fjende nedarver fra ny klasse kaldet GameObjekt
+
 3. Byg klassen eller klasserne
+
 4. Introducer en ny kollisionsmetode i spillerklassen til at håndtere kollisioner med fjenden.
+
 5. Hvis fjenden rammes skal du "spawne" en ny et random sted
 
 **Gå før tid eller virtuel time:**   

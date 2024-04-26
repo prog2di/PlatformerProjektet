@@ -17,7 +17,7 @@ Kilde wikipedia:
 - Player nedarver fra Fjende
 - Player og Fjende nedarver fra ny klasse kaldet GameObjekt
 
-3. Byg klassen eller klasserne
+3. Byg/ombyg klasserne
 
 4. Introducer en ny kollisionsmetode i spillerklassen til at håndtere kollisioner med fjenden.
 

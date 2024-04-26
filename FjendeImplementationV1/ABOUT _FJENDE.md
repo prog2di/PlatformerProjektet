@@ -1,11 +1,7 @@
 ## Platforme, player og FJENDERR implementation Version 1.0
 
-Denne mappe indholder en førdig implementation af spillet med platforme og player.  
-En ny platformsklasse er lavet, der egentlig ikke kan så meget andet end indeholde data for en plaform og tegne platformene.     
-Player klassen er viderebygget med hoppe-funktionalitet, tyngdekraft, friktion og top-kollision når man hopper. Desuden anvender playerens plaforms-kollisions-metode platformsobjekter istedet for bare tal..
-I selve pde-filen er der nu en ArrayList, der håndterer platyformene, så koden er meget mere elegant ;-)
+Denne mappe indholder en færdig implementation af spillet med platforme og player. Men koden til platformene er endnu ikke færdig. I mangler FJENDER... 
 
-Men koden til platformene er endnu ikke færdig. I mangler FJENDER...    
 Med introduktion af en FJENDEKLASSE skal vi nu tage en meget afgørende bedlutning, nemlig hvordan klasse-hierakiet skal laves.
 Hvad er det mest "rigtige" at gøre? ... her anvender vi ***"Linskovs subtitutionsprincip"*** 
 

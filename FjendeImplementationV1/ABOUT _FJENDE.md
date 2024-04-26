@@ -1,6 +1,7 @@
 ## Platforme, player og FJENDER implementation Version 1.0
 
-Denne mappe indholder en færdig implementation af spillet med platforme og player. Nu skal vi til at lave fjender..
+Denne mappe indholder en færdig implementation af spillet med platforme og player. 
+Next step er "fjender"..
 Med introduktion af en fjende-klasse der tages en bedlutning, nemlig hvordan klasse-hierakiet skal laves.
 Til dette anvender vi "Linskovs subtitutionsprincip" 
 

@@ -1,7 +1,8 @@
 ## Platforme, player og fjender implementation Version 1.0
 
 Denne mappe indholder en færdig implementation af spillet med platforme og player. 
-Next step er "fjender"...
+Nu skal i lave en fjende-klasse. For at genbruge koden fra player-klssen skal i anvende nedarvning ... 
+I forbindelse med nedarvningen skal i anvende "Linskovs substitutions-princip"
 
 ### LINSKOVS SUBSTITUTIONSPRINCIP 
 

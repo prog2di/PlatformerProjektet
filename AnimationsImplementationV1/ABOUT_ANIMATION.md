@@ -20,7 +20,14 @@ Advarsel: delegates godt kan betyde forskellige ting indenfor forskelllige sprog
 1. Byg animationer ind i dine player og fjende klasser.   
 Sørg for dit spil virker med både player, platforme, fjender og animationer.
 
-2. Lav en video om alle de principper din/jeres platformerspil anvender.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Aflevering ( dette er sidste time med platformerspillet )
+I skal aflever følgende på Lectio:
+
+1.) Lav en video eller dokument om alle de principper din/jeres platformerspil anvender.
     - Følgende skal berøres : nedarvning, indkapsling, single-responsibility, open-close og liskov
     - Brug gerne klasse-diagrammer og lignende
-    - Videoen må gerne være lang ;-) bare den kan uploades til afleveringen (ellers må anvende youtube...eller lignenede)
+    - Videoen eller videoen må gerne være lang ;-) bare den kan uploades til afleveringen (ellers må anvende youtube...eller lignenede)
+
+2.) Jeres kilde-kode

@@ -6,6 +6,8 @@ Det er nu jeres opgave at anvende et objekt af klassen inde i player-klassen og/
 
 Den rolle som Animations-klassen har i arkitekturen kaldes en "delegate" eller mere generelt bruges der bare "komposition".
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Open/close princippet
 
 Kilde wikipedia:
@@ -14,6 +16,8 @@ Kilde wikipedia:
 
 Der er generelt to måder at gøre det på "nedarvning" eller "delegates".   
 Advarsel: delegates godt kan betyde forskellige ting indenfor forskelllige sprog. Men generelt menes der en måde at "ud-delegere" opgaver til udskiftlige moduler...
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Opgaver:
 

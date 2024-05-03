@@ -24,6 +24,9 @@ Advarsel: delegates godt kan betyde forskellige ting indenfor forskelllige sprog
 1. Byg animationer ind i dine player og fjende klasser.   
 Sørg for dit spil virker med både player, platforme, fjender og animationer.
 
+2. Frivilligt prøv at lave andre animation ved f.eks. at udskifte animations-objektet i player-klassen eller fjende-klassen med andre...     
+[https://itch.io/game-assets](https://itch.io/game-assets) er et godt sted at finde gratis assets
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Aflevering ( dette er sidste time med platformerspillet )

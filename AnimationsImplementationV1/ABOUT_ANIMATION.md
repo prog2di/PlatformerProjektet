@@ -25,8 +25,8 @@ Sørg for dit spil virker med både player, platforme, fjender og animationer.
 ### Aflevering ( dette er sidste time med platformerspillet )
 I skal aflevere følgende på Lectio:
 
-1.) Lav en video eller dokument om alle de principper din/jeres platformerspil anvender.
-    - Følgende skal berøres : nedarvning, indkapsling, single-responsibility, open-close og liskov
+1.) Lav en video eller dokument om alle de principper din/jeres platformerspil anvender, og jeres vurdering af deres anvendelighed.
+    - Følgende skal som minimum berøres : nedarvning, indkapsling, single-responsibility, open-close og liskov
     - Brug gerne klasse-diagrammer og lignende
     - Videoen eller videoen må gerne være lang ;-) bare den kan uploades til afleveringen (ellers må anvende youtube...eller lignenede)
 

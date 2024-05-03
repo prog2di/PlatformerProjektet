@@ -30,4 +30,4 @@ I skal aflevere følgende på Lectio:
     - Brug gerne klasse-diagrammer og lignende
     - Videoen eller videoen må gerne være lang ;-) bare den kan uploades til afleveringen (ellers må anvende youtube...eller lignenede)
 
-2.) Jeres kilde-kode
+2.) Jeres kilde-kode - link til github eller en zip-fil
